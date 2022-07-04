@@ -5,6 +5,7 @@ import skills from "utils/skills.json";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { useTranslation } from "next-i18next";
 import { useRouter } from "next/router";
+import Image from 'next/image'
 
 const HomePage = () => {
   const { palette } = usePalette();
@@ -171,7 +172,7 @@ const HomePage = () => {
           </ul>
         </div>
         <div className={`ring-2 p-1 rounded-sm ${renderPaletteRing()}`}>
-          <img src="/profile-3.jpeg" className="w-64 object-cover rounded-sm" />
+          <Image src="/profile-3.jpeg" className="w-64 object-cover rounded-sm" width="256px" height='256px' />
         </div>
       </section>
       <Line />
