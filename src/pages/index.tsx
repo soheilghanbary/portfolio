@@ -237,7 +237,7 @@ const HomePage = () => {
             rel="nofollow sponsored"
             className="cursor-pointer dark:text-teal-400 text-teal-500 underline"
           >
-            https://github.com/soheilghanbary
+            github.com/soheilghanbary
           </a>
         </li>
         <li className="flex items-center gap-4 xl:text-base lg:text-base text-sm">
@@ -250,7 +250,7 @@ const HomePage = () => {
             rel="nofollow sponsored"
             className="cursor-pointer dark:text-teal-400 text-teal-500 underline"
           >
-            https://www.linkedin.com/in/soli-ghanbary
+            linkedin.com/in/soli-ghanbary
           </a>
         </li>
         <li className="flex items-center gap-4 xl:text-base lg:text-base text-sm">
@@ -263,7 +263,7 @@ const HomePage = () => {
             rel="nofollow sponsored"
             className="cursor-pointer dark:text-teal-400 text-teal-500 underline"
           >
-            https://twitter.com/soli_ghanbary
+            twitter.com/soli_ghanbary
           </a>
         </li>
         <li className="flex items-center gap-4 xl:text-base lg:text-base text-sm">
@@ -276,7 +276,7 @@ const HomePage = () => {
             rel="nofollow sponsored"
             className="cursor-pointer dark:text-teal-400 text-teal-500 underline"
           >
-            https://www.instagram.com/soheil__ghanbary
+            instagram.com/soheil__ghanbary
           </a>
         </li>
       </ul>

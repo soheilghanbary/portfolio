@@ -16,7 +16,7 @@ const Sidebar = () => {
         <div className="p-8">
           <h3 className="text-2xl font-medium mb-4">تنظیمات</h3>
           <h4 className="text-base">پالت رنگ</h4>
-          <div className="flex items-center gap-4 my-4">
+          <div className="flex items-center gap-4 my-4 flex-wrap">
             <div
               onClick={() => setColorPalette("red")}
               className="p-1 rounded-full border-2 border-transparent hover:border-rose-400 cursor-pointer duration-200 ease-in-out"
