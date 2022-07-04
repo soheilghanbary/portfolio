@@ -172,7 +172,7 @@ const HomePage = () => {
           </ul>
         </div>
         <div className={`ring-2 p-1 rounded-sm ${renderPaletteRing()}`}>
-          <Image src="/profile-3.jpeg" className="w-64 object-cover rounded-sm" width="256px" height='256px' />
+          <img src="/profile-3.jpeg" className="object-cover rounded-sm" width="256px" height='320px' />
         </div>
       </section>
       <Line />
