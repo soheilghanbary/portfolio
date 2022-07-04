@@ -22,7 +22,9 @@
   font-family: "Nunito", "irsans";
   direction: rtl;
   // font-family: 'Nunito', 'irsans';
+  -webkit-tap-highlight-color: transparent;
 }
+
 
 body {
   @apply dark:text-zinc-300 dark:bg-zinc-900 text-zinc-500 bg-zinc-50;
