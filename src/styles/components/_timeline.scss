@@ -1,0 +1,111 @@
+.time-lines {
+  @apply my-8;
+  border-radius: 12px;
+  position: relative;
+
+  li {
+    padding-bottom: 1.5rem;
+    position: relative;
+    padding-right: 20px;
+    margin-right: 0px;
+    &:last-child {
+      //   border: 0px;
+      border-color: transparent;
+      padding-bottom: 0;
+    }
+    &:before {
+      content: "";
+      width: 15px;
+      height: 15px;
+      background: transparent;
+      border: 1px solid #4e5ed3;
+      background: #4e5ed3;
+      border-radius: 50%;
+      position: absolute;
+      // right: -8.5px;
+      top: -0.5px;
+    }
+  }
+
+  &.rtl {
+    li {
+      padding-right: 20px;
+      margin-right: 0px;
+      border-right: 2px solid #4e5ed3;
+      &:before {
+        right: -8.5px;
+      }
+      &:last-child {
+        //   border: 0px;
+        border-color: transparent;
+        padding-bottom: 0;
+      }
+    }
+  }
+
+  &.ltr {
+    li {
+      padding-left: 20px;
+      margin-left: 0px;
+      border-left: 2px solid #4e5ed3;
+      &:before {
+        left: -8.5px;
+      }
+      &:last-child {
+        //   border: 0px;
+        border-color: transparent;
+        padding-bottom: 0;
+      }
+    }
+  }
+
+  &.primary {
+    li {
+      border-color: #818cf8;
+      &:before {
+        border-color: #818cf8;
+        background-color: #818cf8;
+      }
+    }
+  }
+
+  &.blue {
+    li {
+      border-color: #38bdf8;
+      &:before {
+        border-color: #38bdf8;
+        background-color: #38bdf8;
+      }
+    }
+  }
+
+  &.red {
+    li {
+      border-color: #fb7185;
+      &:before {
+        border-color: #fb7185;
+        background-color: #fb7185;
+      }
+    }
+  }
+
+  &.yellow {
+    li {
+      border-color: #fbbf24;
+      &:before {
+        border-color: #fbbf24;
+        background-color: #fbbf24;
+      }
+    }
+  }
+
+  &.green {
+    li {
+      border-color: #2dd4bf;
+      &:before {
+        border-color: #2dd4bf;
+        background-color: #2dd4bf;
+      }
+    }
+  }
+}

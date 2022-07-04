@@ -1,0 +1,38 @@
+{
+  "title": "سهیل قنبری",
+  "description": "توسعه دهنده فول استک",
+  "birthdate": {
+    "label": "سال تول :",
+    "value": "1380/7/7"
+  },
+  "education": {
+    "label": "تحصیلات :",
+    "value": "دیپلم شبکه و نرم افزار"
+  },
+  "military-service": {
+    "label": "سربازی :",
+    "value": "معاف"
+  },
+  "location": {
+    "label": "آدرس :",
+    "value": "تهران، تهرانسر"
+  },
+  "email": {
+    "label": "ایمیل :",
+    "value": "soli.ghanbary@gmail.com"
+  },
+  "mobile": {
+    "label": "موبایل :",
+    "value": "09199973120"
+  },
+  "personal-info-title": "مشخصات",
+  "skills-title": "مهارت ها",
+  "experience-title": "تجربه",
+  "profiles-title": "شبکه های اجتماعی",
+  "socials": {
+    "github-title": "گیت هاب",
+    "linkedin-title": "لینکدین",
+    "twitter-title": "توئیتر",
+    "instagram-title": "اینستاگرام"
+  }
+}

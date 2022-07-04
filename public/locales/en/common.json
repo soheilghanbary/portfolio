@@ -1,0 +1,38 @@
+{
+  "title": "Soheil Ghanbary",
+  "description": "Full Stack Developer",
+  "birthdate": {
+    "label": "Birthdate :",
+    "value": "2002/2/29"
+  },
+  "education": {
+    "label": "Education :",
+    "value": "Computer Diploma"
+  },
+  "military-service": {
+    "label": "Military Service :",
+    "value": "Exempted"
+  },
+  "location": {
+    "label": "Location :",
+    "value": "Tehran, TehranSar"
+  },
+  "email": {
+    "label": "Email :",
+    "value": "soli.ghanbary@gmail.com"
+  },
+  "mobile": {
+    "label": "Mobile :",
+    "value": "09199973120"
+  },
+  "personal-info-title": "Personal Info",
+  "skills-title": "Skills",
+  "experience-title": "Experience",
+  "profiles-title": "Profiles",
+  "socials": {
+    "github-title": "GitHub",
+    "linkedin-title": "LinkedIn",
+    "twitter-title": "Twitter",
+    "instagram-title": "Instagram"
+  }
+}

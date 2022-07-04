@@ -1,0 +1,82 @@
+[
+  {
+    "label": "JavaScript-ES2022",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "TypeScript",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "React",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "Redux",
+    "fa_value": "متوسط",
+    "en_value": "medium"
+  },
+  {
+    "label": "HTML / CSS",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "SASS",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "Next.js",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "Redux.js",
+    "fa_value": "متوسط",
+    "en_value": "medium"
+  },
+  {
+    "label": "Node.js",
+    "fa_value": "متوسط",
+    "en_value": "medium"
+  },
+  {
+    "label": "UI / UX",
+    "fa_value": "متوسط",
+    "en_value": "medium"
+  },
+  {
+    "label": "React Native",
+    "fa_value": "مبتدی",
+    "en_value": "beginner"
+  },
+  {
+    "label": "GraphQL",
+    "fa_value": "متوسط",
+    "en_value": "medium"
+  },
+  {
+    "label": "Vue.js",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "Nuxt.js",
+    "fa_value": "متوسط",
+    "en_value": "advanced"
+  },
+  {
+    "label": "SEO",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  },
+  {
+    "label": "WordPress",
+    "fa_value": "پیشرفته",
+    "en_value": "advanced"
+  }
+]

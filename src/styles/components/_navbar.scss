@@ -1,0 +1,14 @@
+.navbar {
+    @apply flex justify-between items-center;
+    .nav-title {
+        @apply flex flex-col gap-1;
+
+        h2 {
+            @apply text-zinc-600 text-3xl font-semibold dark:text-zinc-200;
+        }
+
+        h4 {
+            @apply text-lg dark:text-zinc-400;
+        }
+    }
+}

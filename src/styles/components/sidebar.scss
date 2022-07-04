@@ -1,0 +1,17 @@
+.sidebar {
+    @apply w-72 fixed top-0 right-0 dark:bg-zinc-800 dark:text-zinc-300 bg-white shadow h-screen duration-300 transform translate-x-full z-20;
+
+    &.active {
+        @apply translate-x-0;
+    }
+}
+
+.sidebar-overlay {
+    @apply w-full h-full bg-white/30 dark:bg-black/30 fixed top-0 left-0 z-10 opacity-0 duration-300;
+    visibility: hidden;
+
+    &.active {
+        @apply opacity-100;
+        visibility: visible;
+    }
+}

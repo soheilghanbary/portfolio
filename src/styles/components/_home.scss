@@ -1,0 +1,18 @@
+.title {
+    @apply text-3xl font-medium dark:text-zinc-200 text-zinc-600;
+}
+
+.info-list {
+    @apply my-8 flex flex-col gap-3;
+
+    li {
+        @apply flex gap-4 items-center;
+
+        span {
+            @apply dark:text-zinc-400 text-zinc-500;
+            span {
+                @apply dark:text-zinc-300 text-zinc-600 font-medium;
+            }
+        }
+    }
+}
